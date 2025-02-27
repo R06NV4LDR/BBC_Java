@@ -1,7 +1,5 @@
 package _01_klassen;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class TextUnderlinePrinter {
     public static void main(String[] args) {
 

@@ -1,7 +1,5 @@
 package _03_von_klassen_zu_objekten._02_account.teil1;
 
-import java.util.Random;
-
 public class AccountApp {
 
     public static void main(String[] args) {
